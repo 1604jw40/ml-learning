@@ -1,0 +1,13 @@
+.venv/
+data/*
+!data/.gitkeep
+
+models/*
+reports/*
+
+__pycache__/
+.ipynb_checkpoints/
+*.pkl
+*.joblib
+*.log
+.env
